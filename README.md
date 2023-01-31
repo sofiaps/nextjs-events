@@ -1,3 +1,5 @@
+Try it out at https://events-crud.vercel.app/
+
 - Main Page: View 'Featured' events
 - All Events Page with option to Filter by year and month
 - Event Details Page with Comments
